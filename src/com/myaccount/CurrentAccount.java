@@ -3,7 +3,7 @@ package com.myaccount;
 public class CurrentAccount extends Account {
 
 	public CurrentAccount() {
-
+		
 	}
 
 	public CurrentAccount(String accountHolderName, int accbalance) {
